@@ -1,0 +1,75 @@
+h2 {
+    font-family: 'Montserrat';
+    font-weight: 800;
+    line-height: 1em;
+    font-size: 100px;
+    color: #ff90bc;
+    text-align: center;
+}
+
+h2 span.seg {
+   display: block;
+}
+
+h2 span.seg b {
+  color: #8acdd7;
+}
+
+h2 span.jan {
+    font-family: 'Great Vibes', cursive;
+    color: #8acdd7;
+    font-weight: 400;
+}
+
+.heading{
+    background-image: url("images/seven husband.jpg");
+
+}
+
+.watching {
+    background-color: #ffeaea;
+}
+
+.reading {
+    background-color: #f9f8f2;
+}
+
+h3 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'montserrat';
+    color: #ff90bc
+}
+
+h3 a {
+    color: #8acdd7;
+}
+
+.audio {
+    display:flex;
+    justify-content: center;
+}
+
+.flex-container {
+    object-position: center;
+    display: flex;
+    flex-wrap: nowrap;
+    color: white;
+    justify-content: center;
+  }
+
+.flex-container > div {
+    width: 150px;
+    margin: 10px;
+    text-align: center;
+    line-height: 50px;
+    background-color: #8acdd7;
+    color: white;
+  }
+
+#destinations {
+    color: #ff90bc;
+    text-align: center;
+    font-family: "Great Vibes";
+    font-size: 30px;
+}
